@@ -1,0 +1,41 @@
+.nota {
+  width: 86px;
+  height: 188px;
+  border: none;
+  margin: 15px 0 0 0;
+}
+
+.nota img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.nota p {
+  margin: 8px 0 15px 0;
+}
+
+.nota-counter {
+  height: 32px;
+  margin: 8px 0 0 0;
+  font-size: 26px;
+  font-family: 'PTBold';
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff3f0;
+}
+
+.nota-counter {
+  height: 32px;
+  margin: 8px 0 0 0;
+  font-size: 26px;
+  font-family: 'PTBold';
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff3f0;
+}

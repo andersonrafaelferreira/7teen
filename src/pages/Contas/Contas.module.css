@@ -1,0 +1,86 @@
+.container {
+  width: 616px;
+  display: inline-block;
+}
+
+.NavigationTitlesTertiary {
+  width: 616px;
+  height: 86px;
+  margin: 36px 0 40px 40px;
+
+  font-family: 'PTBold';
+  font-size: 36px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff3f0;
+  text-align: left;
+}
+.eye {
+  vertical-align: middle;
+}
+.containerSaldo {
+  width: 182px;
+  margin: 40px 434px 24px 40px;
+  padding: 12px 16px 13px;
+  border-radius: 18px;
+  background-color: #bc431a;
+}
+.label {
+  height: 29px;
+  margin: 0 0 0 16px;
+  font-family: 'PTBold';
+  font-size: 24px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffdbd1;
+  text-align: center;
+  vertical-align: middle;
+}
+.containerAccs {
+  width: 616px;
+  height: 500px;
+  margin-left: 40px;
+  text-align: left;
+  overflow-y: auto;
+}
+.containerGlass {
+  display: inline-block;
+  clear: both;
+  width: 200px;
+  height: 200px;
+  margin: 0px 24px 24px 0px;
+  padding: 28px 32px 28px;
+  border-radius: 24px;
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.1);
+  border-style: solid;
+  border-width: 2px;
+  border-image-source: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.36)
+  );
+  background-origin: border-box;
+
+}
+.containerGlass.selected {
+  display: inline-block;
+  clear: both;
+  width: 200px;
+  height: 200px;
+  padding: 28px 32px 28px;
+  border-radius: 24px;
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 1px 20px -1px rgba(0, 0, 0, 0.1);
+  border-style: solid;
+  border-width: 2px;
+  background-image: linear-gradient(134deg, #ffe5d7 -1%, #ffd3bd);
+  background-origin: border-box;
+  background-size: cover;
+}

@@ -1,0 +1,39 @@
+ #root {
+  max-width: 1024px;
+  max-height: 1280px;
+  text-align: center;
+}
+
+body {margin: 0 0 0 0;}
+
+@font-face {
+  font-family: 'PTBold';
+  src: url('./fonts/pt-root-ui_bold.woff2') format('woff2'),
+    url('./fonts/pt-root-ui_bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PTMedium';
+  src: url('./fonts/pt-root-ui_medium.woff2') format('woff2'),
+    url('./fonts/pt-root-ui_medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PTLight';
+  src: url('./fonts/pt-root-ui_light.woff2') format('woff2'),
+    url('./fonts/pt-root-ui_light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PTRegular';
+  src: url('./fonts/pt-root-ui_regular.woff2') format('woff2'),
+    url('./fonts/pt-root-ui_regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

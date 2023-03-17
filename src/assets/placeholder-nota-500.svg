@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="188px" viewBox="0 0 86 188" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Illustration Bill 500</title>
+    <g id="17inches-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="17-/-Depósito-/-Conta-Própria-/-Depósito-01" transform="translate(-388.000000, -716.000000)">
+            <g id="Outputs/Money-Calculator/Banknotes" transform="translate(352.000000, 692.000000)">
+                <g id="Illustration-Bill-500" transform="translate(36.517019, 24.000000)">
+                    <rect id="Rectangle" stroke="#FFBCA1" stroke-width="2" x="4.09090909" y="1" width="78" height="185.636364"></rect>
+                    <rect id="Rectangle" fill="#FFBCA1" opacity="0.3" x="5.27272727" y="95.2727273" width="76.3636364" height="48.7272727"></rect>
+                    <text id="500" transform="translate(17.000000, 153.000000) rotate(90.000000) translate(-17.000000, -153.000000) " font-family="MuktaMahee-Bold, Mukta Mahee" font-size="20" font-weight="bold" letter-spacing="-0.909090909" fill="#FFBCA1">
+                        <tspan x="15.0472727" y="159">500</tspan>
+                    </text>
+                    <text id="500" transform="translate(71.181818, 22.181818) rotate(90.000000) translate(-71.181818, -22.181818) " font-family="MuktaMahee-ExtraBold, Mukta Mahee" font-size="16" font-weight="600" letter-spacing="-0.527273" fill="#FFBCA1">
+                        <tspan x="55.1818182" y="26.6818182">500</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

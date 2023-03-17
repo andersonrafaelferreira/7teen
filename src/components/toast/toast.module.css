@@ -1,0 +1,57 @@
+.main {
+    position: fixed;
+
+    bottom: 0;
+
+    z-index: 100;
+
+    height: 150px;
+
+    width: 100%;
+
+    background-color: #535353;
+
+    font-family: "PTLight";
+
+    color: white;
+
+    font-size: 25px;
+
+    animation: slide-up 6000ms ease-in;
+
+}
+
+.main p {
+    margin: 50px 0 0 0;
+}
+
+/* @keyframes slide-up {
+    from {
+      top: 100%;
+      height: 300%;
+    }
+    to {
+      top: 1130px;
+      height: 100%;
+    }
+  } */
+
+  @keyframes slide-up {
+    0% {
+      top: 100%;
+      height: 300%;
+    }
+    10% {
+      top: 1130px;
+      height: 100%;
+    }
+    90% {
+      top: 1130px;
+      height: 100%;
+    }
+    100% {
+      top: 100%;
+      height: 300%;
+    }
+
+  }

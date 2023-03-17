@@ -1,0 +1,71 @@
+.container {
+  height: 65.9px;
+  width: 113.3px;
+  margin: 0 13.5px 13.5px 0;
+  border-radius: 8px;
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.3);
+  background: #fff3f0;
+
+}
+
+.container:active{
+  background-color: #ffdbd1;
+}
+
+.letter-primary {
+  width: 11px;
+  height: 36px;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #bc431a;
+  font-family: "PTMedium";
+}
+
+.simbolos {
+  height: 65.9px;
+  width: 113.3px;
+  margin: 0 13.5px 13.5px 0;
+  opacity: 0.12;
+  border-radius: 8px;
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.3);
+  background: #ffdbd1;
+  
+}
+
+.teclado-icons {
+  width: 62.6px;
+  height: 113.3px;
+  object-fit: contain;
+}
+
+.apagar-esconder {
+  width: 113.3px;
+  height: 145.2px;
+  border-radius: 8px;
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.3);
+  background-color: #fff3f0;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 13.5px;
+  
+}
+.apagar-esconder:active{
+  background-color: #ffdbd1;
+}
+
+.imagem {
+    width: 25.6px;
+    height: 25.3px;
+    object-fit: contain;
+}
+
+.keyboard-hidden {
+  bottom: -100%;
+}

@@ -1,0 +1,127 @@
+.caixa-montante {
+  width: 584px;
+  height: 88px;
+  margin: 0px 32px 16px 0;
+  border-radius: 24px;
+  background-color: #bc431a;
+  font-size: 40px;
+  color: #fff3f0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.caixa-montante p {
+  width: 60px;
+  height: 88px;
+  margin: 20px 10px;
+  font-family: 'PTRegular';
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  font-size: 36px;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffdbd1;
+}
+
+.caixa-valor {
+  width: 400px;
+  height: 80px;
+  margin: 0px 0px;
+  background-color: #bc431a;
+  border-radius: 24px;
+  font-size: 40px;
+  color: #fff3f0;
+  border: none;
+  font-family: 'PTRegular';
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  font-size: 40px;
+  letter-spacing: 2px;
+  outline: none;
+  box-shadow: none !important;
+  margin-left: -60px;
+}
+
+.texto-guia {
+  width: 616px;
+  height: 86px;
+  margin: 16px 32px 16px 0;
+  float: right;
+  font-family: 'PTRegular';
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff3f0;
+}
+
+.texto-montante {
+  width: 616px;
+  height: 60px;
+  margin: 16px 32px 0px 0;
+  float: right;
+  font-family: 'PTRegular';
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff3f0;
+}
+
+.texto-montante-max {
+  width: 408px;
+  height: 29px;
+  margin: 16px 208px 0 0;
+  font-family: 'PTRegular';
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fff3f0;
+}
+
+.moeda {
+  width: 49px;
+  height: 53px;
+  margin: 0 16px 0 0;
+  font-family: PTRootUI;
+  font-size: 44px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffdbd1;
+}
+
+.wrapper-pedido {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper-montante {
+  display: flex;
+  justify-content: space-between;
+}
+
+.montante {
+  text-align: left;
+  height: auto;
+  width: 680px;
+  margin: 40px 0 0 338px;
+}
+
+.icon-cruz {
+  background-color: transparent;
+  object-fit: contain;
+  margin: 0px 10px;
+  border: none;
+}

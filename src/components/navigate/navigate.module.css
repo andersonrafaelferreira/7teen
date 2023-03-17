@@ -1,0 +1,56 @@
+.retroceder {
+  width: 328px;
+  height: 96px;
+  padding: 29px 48px;
+  border-radius: 26px;
+  background-color: #c9502c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  font-family: "PTBold";
+}
+
+.avancar {
+  width: 328px;
+  height: 96px;
+  padding: 29px 48px;
+  border-radius: 26px;
+  background-color: #ffdbd1;
+  opacity: 0.38;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  border: none;
+  font-family: "PTBold";
+}
+
+.letraRetroceder {
+  width: 199px;
+  height: 38px;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffdbd1;
+}
+
+.letraAvancar {
+  width: 199px;
+  height: 38px;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #bc431a;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 56px 56px;
+}
